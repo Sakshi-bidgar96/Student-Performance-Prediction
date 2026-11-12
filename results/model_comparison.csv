@@ -1,0 +1,4 @@
+Algorithm,Accuracy,At Risk Precision,At Risk Recall,At Risk F1 Score
+Random Forest,73.42,0.6,0.577,0.588
+SVM,63.29,0.44,0.423,0.431
+XGBoost,67.09,0.5,0.385,0.435
